@@ -19,6 +19,8 @@ public class Automation {
 		simpleAlert.click();
 		Alert alert = driver.switchTo().alert();
 		alert.accept();
+		alert.accept();
+		
 		
 	
       
